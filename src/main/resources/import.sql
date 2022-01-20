@@ -1,0 +1,1 @@
+insert into user (first_name, last_name) values ('Ali', 'DEMNATI'),('Driss', 'ABARO'),('Karima', 'KADIRI'),('Brahim', 'BENNANI');
